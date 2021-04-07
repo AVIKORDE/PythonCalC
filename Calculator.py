@@ -1,8 +1,16 @@
 
-# This function adds two numbers
-# This function subtracts two numbers
-# This function multiplies two numbers
-# This function divides two numbers
+#### This Function Performs Addition
+
+#### This Function Performs Subtraction
+
+#### This Function Performs Multiplication
+
+#### This Function Performs Division
+
+#### This Function Shows Modulus
 
 
-## LOGIC FOR CALCULATION
+## Print Statements and INPUT
+
+
+## LOGIC FOR CALCULATION BELOW
